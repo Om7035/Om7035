@@ -18,8 +18,8 @@
 - [Tech Stack & Tools](#-tech-stack--tools)
 - [GitHub Stats & Activity](#-github-stats--activity)
 - [Top Projects](#-top-projects)
+- [3D Visualizations](#-3d-visualizations)
 - [Connect with Me](#-connect-with-me)
-- [3D Contribution Graph](#-3d-contribution-graph)
 
 ---
 
@@ -63,6 +63,19 @@ Here are some projects I'm proud of:
 
 ---
 
+## 🎡 3D Visualizations
+<p align="center">
+  <!-- Replace the URL below with your animated GIF showcasing the 3D graph -->
+  <a href="https://your-external-demo-link.com" target="_blank">
+    <img src="https://yourdomain.com/path-to-your-3d-graph-animation.gif" alt="3D Graph Animation" width="800" />
+  </a>
+</p>
+<p align="center">
+  <em>Click the image to view the interactive 3D demo!</em>
+</p>
+
+---
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/om-kawale" target="_blank">
@@ -77,13 +90,6 @@ Here are some projects I'm proud of:
   <a href="https://dev.to/your_handle" target="_blank">
     <img src="https://img.shields.io/badge/-Dev.to-%23000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-</p>
-
----
-
-## 🌀 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/om7035/om7035/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
