@@ -19,7 +19,7 @@
 - [GitHub Stats & Activity](#-github-stats--activity)
 - [Top Projects](#-top-projects)
 - [Connect with Me](#-connect-with-me)
-- [Recent Blog Posts](#-recent-blog-posts)
+- [3D Contribution Graph](#-3d-contribution-graph)
 
 ---
 
@@ -81,14 +81,10 @@ Here are some projects I'm proud of:
 
 ---
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks](https://yourblog.com/react-hooks)
-- [A Guide to Next.js for Beginners](https://yourblog.com/nextjs-guide)
-- [Styling in Tailwind CSS: Tips and Tricks](https://yourblog.com/tailwind-css-tips)
-<!-- BLOG-POST-LIST:END -->
-
-*For more articles, visit [my blog](https://yourblog.com).*
+## 🌀 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/om7035/om7035/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</p>
 
 ---
 
