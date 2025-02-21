@@ -13,16 +13,6 @@
 
 ---
 
-## 📚 Table of Contents
-- [About Me](#-about-me)
-- [Tech Stack & Tools](#-tech-stack--tools)
-- [GitHub Stats & Activity](#-github-stats--activity)
-- [Top Projects](#-top-projects)
-- [3D Visualizations](#-3d-visualizations)
-- [Connect with Me](#-connect-with-me)
-
----
-
 ## 💡 About Me
 Hi there! I'm **Om Kawale**, a **Frontend Developer** who loves transforming ideas into sleek, modern, and intuitive UIs. My passions include:
 - **Building responsive & accessible web experiences**
@@ -63,19 +53,6 @@ Here are some projects I'm proud of:
 
 ---
 
-## 🎡 3D Visualizations
-<p align="center">
-  <!-- Replace the URL below with your animated GIF showcasing the 3D graph -->
-  <a href="https://your-external-demo-link.com" target="_blank">
-    <img src="https://yourdomain.com/path-to-your-3d-graph-animation.gif" alt="3D Graph Animation" width="800" />
-  </a>
-</p>
-<p align="center">
-  <em>Click the image to view the interactive 3D demo!</em>
-</p>
-
----
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/om-kawale" target="_blank">
@@ -91,6 +68,12 @@ Here are some projects I'm proud of:
     <img src="https://img.shields.io/badge/-Dev.to-%23000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </p>
+
+---
+
+## 🎯 Current Focus
+- 🌱 **Currently Learning:** Cutting-edge AI trends and advanced React patterns.
+- 💬 **Favorite Quote:** "Simplicity is the ultimate sophistication." – Leonardo da Vinci
 
 ---
 
