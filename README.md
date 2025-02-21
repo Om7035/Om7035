@@ -13,6 +13,16 @@
 
 ---
 
+## 📚 Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack & Tools](#-tech-stack--tools)
+- [GitHub Stats & Activity](#-github-stats--activity)
+- [Top Projects](#-top-projects)
+- [Connect with Me](#-connect-with-me)
+- [Fun Facts](#-fun-facts)
+
+---
+
 ## 💡 About Me
 Hi there! I'm **Om Kawale**, a **Frontend Developer** who loves transforming ideas into sleek, modern, and intuitive UIs. My passions include:
 - **Building responsive & accessible web experiences**
@@ -71,8 +81,9 @@ Here are some projects I'm proud of:
 
 ---
 
-## 🎯 Current Focus
+## 🎉 Fun Facts
 - 🌱 **Currently Learning:** Cutting-edge AI trends and advanced React patterns.
+- ⚡ **Fun Fact:** I turn coffee into code every day ☕.
 - 💬 **Favorite Quote:** "Simplicity is the ultimate sophistication." – Leonardo da Vinci
 
 ---
