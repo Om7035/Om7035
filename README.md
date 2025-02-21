@@ -17,20 +17,20 @@
 - [About Me](#-about-me)
 - [Tech Stack & Tools](#-tech-stack--tools)
 - [GitHub Stats & Activity](#-github-stats--activity)
-- [Featured Projects](#-featured-projects)
+- [Top Projects](#-top-projects)
 - [Connect with Me](#-connect-with-me)
 - [Fun Facts](#-fun-facts)
 
 ---
 
 ## 💡 About Me
-Hi there! I'm **Om Kawale**, a **Frontend Developer** passionate about transforming ideas into sleek, modern, and intuitive user interfaces. My expertise includes:
-- **Building responsive and accessible web experiences**
-- **Proficiency in React.js, Next.js, TailwindCSS, and TypeScript**
-- **Exploring AI & Machine Learning innovations**
-- **Designing minimalist yet powerful UI/UX**
+Hi there! I'm **Om Kawale**, a **Frontend Developer** who loves transforming ideas into sleek, modern, and intuitive UIs. My passions include:
+- **Building responsive & accessible web experiences**
+- **React.js, Next.js, TailwindCSS, and TypeScript**
+- Diving into **AI & Machine Learning** innovations
+- Crafting minimalist yet powerful **UI/UX designs**
 
-I am committed to continuous learning and pushing the boundaries of design to create scalable, future-proof applications.
+I believe in continuous learning and pushing the boundaries of design to create scalable, future-proof applications.
 
 ---
 
@@ -52,25 +52,14 @@ I am committed to continuous learning and pushing the boundaries of design to cr
 
 ---
 
-## 🚀 Featured Projects
-Here are some of my notable projects:
-
-- **[FinRack](https://github.com/Om7035/FinRack)**  
-  *An AI-powered financial advisor integrating the Gemini API for an advanced finance experience.*
-
-- **[Green-Sense](https://github.com/Om7035/Green-Sense)**  
-  *A platform promoting sustainable living through AI-driven environmental insights.*
-
-- **[Export Management Platform](https://github.com/Om7035/export-management-platform)**  
-  *A comprehensive solution for managing export operations efficiently.*
-
-- **[PlantBasedProject](https://github.com/Om7035/PlantBasedProject)**  
-  *An AI-driven plant analyzer with a user-friendly interface.*
-
-- **[Netflix Clone](https://github.com/Om7035/netflix-clone)**  
-  *A replica of Netflix's UI built with Next.js and TailwindCSS.*
-
-Feel free to explore these repositories to see my work in action.
+## 🚀 Top Projects
+Here are some projects I'm proud of:
+- **[FinRack](https://github.com/om7035/FinRack)**  
+  *AI-powered financial advisor integrating Gemini API for a next-level finance experience.*
+- **[PlantScan](https://github.com/om7035/PlantScan)**  
+  *AI-driven plant analyzer with Tailwind UI for seamless user interaction.*
+- **[Cricket Data Analysis](https://github.com/om7035/Cricket-Analysis)**  
+  *Advanced cricket predictions and data insights powered by AI.*
 
 ---
 
@@ -93,8 +82,8 @@ Feel free to explore these repositories to see my work in action.
 ---
 
 ## 🎉 Fun Facts
-- 🌱 **Currently Learning:** Advanced AI algorithms and modern React patterns.
-- ⚡ **Fun Fact:** I transform coffee into code daily ☕.
+- 🌱 **Currently Learning:** Cutting-edge AI trends and advanced React patterns.
+- ⚡ **Fun Fact:** I turn coffee into code every day ☕.
 - 💬 **Favorite Quote:** "Simplicity is the ultimate sophistication." – Leonardo da Vinci
 
 ---
