@@ -261,10 +261,11 @@ const Om = {
       <blockquote> "I believe technology should feel invisible while creating meaningful human connections. Every line of code should simplify complexity and empower users." </blockquote>
       <h3>⚡ Fun Facts</h3>
       <ul>
-        <li>🏃‍♂️ Completed a half-marathon while mentally debugging code</li>
-        <li>🎸 Play guitar to refresh my creative thinking</li>
-        <li>🌱 Maintain a vertical garden with 30+ plant species</li>
-        <li>🧩 Solve complex algorithmic puzzles for relaxation</li>
+        <li>🧠 Debugging in Dreams: I once solved a bug in my sleep and woke up to implement the fix.</li>
+        <li>🎮 Game Dev Enthusiast: I built a retro-style game in 48 hours during a hackathon and won the "Most Creative" award.</li>
+        <li>🌍 Globetrotter Coder: I've coded in over 10 countries, drawing inspiration from different cultures and landscapes.</li>
+        <li>🎧 Music-Driven Development: I curate coding playlists and believe the right soundtrack can 10x productivity.</li>
+        <li>🚀 Space Nerd: I'm fascinated by space exploration and once built a satellite tracker as a side project.</li>
       </ul>
     </td>
   </tr>
