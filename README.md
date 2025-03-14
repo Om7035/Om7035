@@ -177,9 +177,9 @@ const Om = {
         </p>
       </td>
       <td width="50%">
-        <h3>🔍 [MockDiddy](https://github.com/Om7035/MockDiddy)</h3>
-        <a href="https://github.com/Om7035/MockDiddy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=MockDiddy&theme=tokyonight&hide_border=true" width="100%" alt="MockDiddy" />
+        <h3>🔍 [MockNew](https://github.com/Om7035/MockNew)</h3>
+        <a href="https://github.com/Om7035/MockNew">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=MockNew&theme=tokyonight&hide_border=true" width="100%" alt="MockNew" />
         </a>
         <p>Mocking tool for API development and testing.</p>
         <p>
