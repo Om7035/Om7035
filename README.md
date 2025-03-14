@@ -181,7 +181,7 @@ const Om = {
         <a href="https://github.com/Om7035/MockNew">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=MockNew&theme=tokyonight&hide_border=true" width="100%" alt="MockNew" />
         </a>
-        <p>Mocking tool for API development and testing.</p>
+        <p>Mocking API Interview Project.</p>
         <p>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
