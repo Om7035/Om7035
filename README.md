@@ -304,3 +304,55 @@ I transform complex challenges into elegant solutions with a focus on:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" />
   <p>⭐ <strong>Star some repositories if you find my work valuable!</strong> ⭐</p>
 </div>
+
+<!-- 3D Model Section -->
+<h2 id="3d-models">🖼️ 3D Models</h2>
+<p>Check out my interactive 3D models:</p>
+<iframe src="https://sketchfab.com/models/YOUR_MODEL_ID/embed" frameborder="0" width="100%" height="400px" allowfullscreen></iframe>
+
+<!-- Infographic Section -->
+<h2 id="infographics">📊 Infographics</h2>
+<p>Here's a visual summary of my skills and projects:</p>
+<img src="link_to_your_infographic.png" alt="Skills Infographic" width="100%"/>
+
+<!-- Dynamic Chart Section -->
+<h2 id="coding-stats">📈 Coding Statistics</h2>
+<canvas id="myChart" width="400" height="200"></canvas>
+<script>
+  var ctx = document.getElementById('myChart').getContext('2d');
+  var myChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+          labels: ['JavaScript', 'Python', 'React', 'Node.js'],
+          datasets: [{
+              label: '# of Projects',
+              data: [12, 8, 15, 10],
+              backgroundColor: [
+                  'rgba(255, 99, 132, 0.2)',
+                  'rgba(54, 162, 235, 0.2)',
+                  'rgba(255, 206, 86, 0.2)',
+                  'rgba(75, 192, 192, 0.2)'
+              ],
+              borderColor: [
+                  'rgba(255, 99, 132, 1)',
+                  'rgba(54, 162, 235, 1)',
+                  'rgba(255, 206, 86, 1)',
+                  'rgba(75, 192, 192, 1)'
+              ],
+              borderWidth: 1
+          }]
+      },
+      options: {
+          scales: {
+              y: {
+                  beginAtZero: true
+              }
+          }
+      }
+  });
+</script>
+
+<!-- Video Demo Section -->
+<h2 id="video-demos">🎥 Project Demos</h2>
+<p>Watch my projects in action:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
