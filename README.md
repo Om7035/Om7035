@@ -27,6 +27,42 @@
   <a href="#beyond-code">✨ Beyond Code</a>
 </p>
 
+<!-- Light/Dark Mode Toggle -->
+<div align="center">
+  <label for="mode-toggle" style="cursor: pointer;">
+    <input type="checkbox" id="mode-toggle" style="display: none;" />
+    <span style="padding: 10px; background-color: #f0f0f0; border-radius: 5px; border: 1px solid #ccc;">🌞 Light Mode / 🌜 Dark Mode</span>
+  </label>
+</div>
+
+<script>
+  const toggle = document.getElementById('mode-toggle');
+  const body = document.body;
+
+  // Check for saved user preference, if any, and apply it
+  if (localStorage.getItem('theme') === 'dark') {
+    body.classList.add('dark-mode');
+    toggle.checked = true;
+  }
+
+  toggle.addEventListener('change', () => {
+    if (toggle.checked) {
+      body.classList.add('dark-mode');
+      localStorage.setItem('theme', 'dark');
+    } else {
+      body.classList.remove('dark-mode');
+      localStorage.setItem('theme', 'light');
+    }
+  });
+</script>
+
+<style>
+  body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+</style>
+
 ---
 
 <h2 id="about-me">👨‍💻 About Me | <sup><sub><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></sub></sup></h2>
