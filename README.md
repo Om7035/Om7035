@@ -2,15 +2,15 @@
 <div align="center">
   <!-- Animated Banner with 3D Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat:wght@700&size=30&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=1000&lines=Welcome+to+Om+Kawale's+Digital+Workshop+%F0%9F%9A%80;Frontend+Architect+%7C+AI+Innovator+%7C+UX+Visionary;Crafting+Tomorrow's+Interfaces+Today;Where+Creativity+Meets+Technical+Excellence" alt="Dynamic Introduction" />
-  
+
   <!-- Animated Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlignY=35&fontSize=25" />
-  
+
   <!-- Quick Stats with Animated Icons -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=om7035&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </p>
-  
+
   <!-- Premium Trophy Display -->
   <img src="https://github-profile-trophy.vercel.app/?username=om7035&theme=nord&column=7&no-frame=true&margin-w=15" width="100%" alt="Achievement Trophies" />
 </div>
@@ -30,9 +30,7 @@
 ---
 
 <h2 id="about-me">👨‍💻 About Me | <sup><sub><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></sub></sup></h2>
-
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
-
 Greetings, digital explorer! I'm **Om Kawale** — where artistry meets algorithms.
 
 ```javascript
@@ -45,15 +43,16 @@ const Om = {
 ```
 
 I transform complex challenges into elegant solutions with a focus on:
-- 🎨 **Crafting pixel-perfect, responsive interfaces** that delight users
-- ⚡ **Engineering high-performance applications** with modern frameworks
-- 🧠 **Integrating AI capabilities** to create smarter user experiences
-- 🔄 **Embracing continuous evolution** by learning cutting-edge technologies
 
----
+🎨 Crafting pixel-perfect, responsive interfaces that delight users
+
+⚡ Engineering high-performance applications with modern frameworks
+
+🧠 Integrating AI capabilities to create smarter user experiences
+
+🔄 Embracing continuous evolution by learning cutting-edge technologies
 
 <h2 id="expertise">🧠 Expertise | <sup><sub>🌟 Skill Constellation</sub></sup></h2>
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -94,11 +93,9 @@ I transform complex challenges into elegant solutions with a focus on:
 
 <!-- Technology Ecosystem Visualization -->
 <h2 id="tech-ecosystem">⚙️ Tech Ecosystem | <sup><sub>🔧 Tools of the Trade</sub></sup></h2>
-
 <div align="center">
   <!-- Interactive Tech Stack Visualization -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,firebase,aws,docker,git,figma,tensorflow,pytorch,python,java&perline=9" alt="Technology Ecosystem" />
-  
   <!-- Current Tech Journey -->
   <h3>🔍 Currently Exploring</h3>
   <p>
@@ -109,15 +106,12 @@ I transform complex challenges into elegant solutions with a focus on:
   </p>
 </div>
 
----
-
 <h2 id="showcase-projects">🏆 Showcase Projects</h2>
-
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3>🌐 <a href="https://github.com/Om7035/Portfolio">Portfolio</a></h3>
+        <h3>🌐 [Portfolio](https://github.com/Om7035/Portfolio)</h3>
         <a href="https://github.com/Om7035/Portfolio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=Portfolio&theme=tokyonight&hide_border=true" width="100%" alt="Portfolio" />
         </a>
@@ -129,7 +123,7 @@ I transform complex challenges into elegant solutions with a focus on:
         </p>
       </td>
       <td width="50%">
-        <h3>💼 <a href="https://github.com/Om7035/export-management-platform">Export Management Platform</a></h3>
+        <h3>💼 [Export Management Platform](https://github.com/Om7035/export-management-platform)</h3>
         <a href="https://github.com/Om7035/export-management-platform">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=export-management-platform&theme=tokyonight&hide_border=true" width="100%" alt="Export Management Platform" />
         </a>
@@ -143,7 +137,7 @@ I transform complex challenges into elegant solutions with a focus on:
     </tr>
     <tr>
       <td width="50%">
-        <h3>🎬 <a href="https://github.com/Om7035/netflix-clone">Netflix Clone</a></h3>
+        <h3>🎬 [Netflix Clone](https://github.com/Om7035/netflix-clone)</h3>
         <a href="https://github.com/Om7035/netflix-clone">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=netflix-clone&theme=tokyonight&hide_border=true" width="100%" alt="Netflix Clone" />
         </a>
@@ -155,7 +149,7 @@ I transform complex challenges into elegant solutions with a focus on:
         </p>
       </td>
       <td width="50%">
-        <h3>🌿 <a href="https://github.com/Om7035/Green-Sense">Green-Sense</a></h3>
+        <h3>🌿 [Green-Sense](https://github.com/Om7035/Green-Sense)</h3>
         <a href="https://github.com/Om7035/Green-Sense">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=Green-Sense&theme=tokyonight&hide_border=true" width="100%" alt="Green-Sense" />
         </a>
@@ -169,7 +163,7 @@ I transform complex challenges into elegant solutions with a focus on:
     </tr>
     <tr>
       <td width="50%">
-        <h3>📦 <a href="https://github.com/Om7035/FinRack">FinRack</a></h3>
+        <h3>📦 [FinRack](https://github.com/Om7035/FinRack)</h3>
         <a href="https://github.com/Om7035/FinRack">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=FinRack&theme=tokyonight&hide_border=true" width="100%" alt="FinRack" />
         </a>
@@ -181,7 +175,7 @@ I transform complex challenges into elegant solutions with a focus on:
         </p>
       </td>
       <td width="50%">
-        <h3>🔍 <a href="https://github.com/Om7035/MockDiddy">MockDiddy</a></h3>
+        <h3>🔍 [MockDiddy](https://github.com/Om7035/MockDiddy)</h3>
         <a href="https://github.com/Om7035/MockDiddy">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=MockDiddy&theme=tokyonight&hide_border=true" width="100%" alt="MockDiddy" />
         </a>
@@ -195,30 +189,22 @@ I transform complex challenges into elegant solutions with a focus on:
   </table>
 </div>
 
----
-
 <h2 id="contribution-galaxy">📊 Contribution Galaxy | <sup><sub>🌌 Code Cosmos</sub></sup></h2>
-
 <div align="center">
   <!-- 3D Contribution Calendar -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om7035&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=ff9c1c&fire=FFD700&currStreakNum=F8D866&sideNums=F8D866" width="49%" alt="GitHub Streak" />
-  
   <!-- Language Distribution -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" width="58%" alt="Top Languages" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=om7035&theme=radical" width="40%" alt="Coding Activity" />
   </div>
-  
   <!-- Activity Graph with Custom Design -->
   <a href="https://github.com/om7035">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=om7035&theme=tokyo-night&hide_border=true&radius=10&bg_color=141321&line=ff9c1c&point=F8D866&color=ff9c1c" width="98%" />
   </a>
 </div>
 
----
-
 <h2 id="connect">🤝 Connect | <sup><sub>🌐 Digital Handshake</sub></sup></h2>
-
 <div align="center">
   <a href="https://linkedin.com/in/om-kawale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -244,10 +230,7 @@ I transform complex challenges into elegant solutions with a focus on:
   </a>
 </div>
 
----
-
 <h2 id="beyond-code">✨ Beyond Code | <sup><sub>🌈 The Human Element</sub></sup></h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -267,9 +250,7 @@ I transform complex challenges into elegant solutions with a focus on:
     </td>
     <td width="50%" valign="top">
       <h3>💭 Philosophy</h3>
-      <blockquote>
-        "I believe technology should feel invisible while creating meaningful human connections. Every line of code should simplify complexity and empower users."
-      </blockquote>
+      <blockquote> "I believe technology should feel invisible while creating meaningful human connections. Every line of code should simplify complexity and empower users." </blockquote>
       <h3>⚡ Fun Facts</h3>
       <ul>
         <li>🏃‍♂️ Completed a half-marathon while mentally debugging code</li>
@@ -285,7 +266,6 @@ I transform complex challenges into elegant solutions with a focus on:
   <!-- Animated Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%" />
   <p>⭐ <strong>Star some repositories if you find my work valuable!</strong> ⭐</p>
-  
   <!-- Spotify Now Playing -->
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=1000&color=1DB954&center=true&vCenter=true&repeat=true&width=600&height=20&lines=🎧+Currently+listening+to+innovative+tech+podcasts+and+lofi+beats" alt="Music Status" />
