@@ -15,18 +15,18 @@
 ## 📚 Navigate My Universe
 
 <p align="center">
-  <a href="#-about-me">👨‍💻 About Me</a> •
-  <a href="#-expertise">🧠 Expertise</a> •
-  <a href="#️-tech-ecosystem">⚙️ Tech Ecosystem</a> •
-  <a href="#-showcase-projects">🏆 Showcase Projects</a> •
-  <a href="#-contribution-galaxy">📊 Contribution Galaxy</a> •
-  <a href="#-connect">🤝 Connect</a> •
-  <a href="#-beyond-code">✨ Beyond Code</a>
+  <a href="#about-me">👨‍💻 About Me</a> •
+  <a href="#expertise">🧠 Expertise</a> •
+  <a href="#tech-ecosystem">⚙️ Tech Ecosystem</a> •
+  <a href="#showcase-projects">🏆 Showcase Projects</a> •
+  <a href="#contribution-galaxy">📊 Contribution Galaxy</a> •
+  <a href="#connect">🤝 Connect</a> •
+  <a href="#beyond-code">✨ Beyond Code</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me {#about-me}
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
@@ -50,7 +50,7 @@ I transform complex challenges into elegant solutions with a focus on:
 
 ---
 
-## 🧠 Expertise | 🌟 Skill Constellation
+## 🧠 Expertise | 🌟 Skill Constellation {#expertise}
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ I transform complex challenges into elegant solutions with a focus on:
 
 ---
 
-## ⚙️ Tech Ecosystem | 🔧 Tools of the Trade
+## ⚙️ Tech Ecosystem | 🔧 Tools of the Trade {#tech-ecosystem}
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I transform complex challenges into elegant solutions with a focus on:
 
 ---
 
-## 🏆 Showcase Projects
+## 🏆 Showcase Projects {#showcase-projects}
 
 <div align="center">
 
@@ -199,7 +199,7 @@ Mocking tool for API development and testing.
 
 ---
 
-## 📊 Contribution Galaxy | 🌌 Code Cosmos
+## 📊 Contribution Galaxy | 🌌 Code Cosmos {#contribution-galaxy}
 
 <div align="center">
 
@@ -207,15 +207,21 @@ Mocking tool for API development and testing.
 
 <br/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=om7035&theme=tokyo-night&hide_border=true&radius=10&bg_color=141321&line=ff9c1c&point=F8D866&color=ff9c1c)
+### 🏆 GitHub Achievements
+- 🌟 **Active Developer**: Consistently contributing to open-source projects
+- 🔥 **Problem Solver**: Building innovative solutions across multiple domains
+- 🚀 **Tech Explorer**: Always experimenting with cutting-edge technologies
+- 💡 **Community Contributor**: Sharing knowledge through code and documentation
 
 </div>
 
 ---
 
-## 🤝 Connect | 🌐 Digital Handshake
+## 🤝 Connect | 🌐 Digital Handshake {#connect}
 
 <div align="center">
 
@@ -231,7 +237,7 @@ Mocking tool for API development and testing.
 
 ---
 
-## ✨ Beyond Code | 🌈 The Human Element
+## ✨ Beyond Code | 🌈 The Human Element {#beyond-code}
 
 <table>
 <tr>
