@@ -84,6 +84,11 @@ I transform complex challenges into elegant solutions with a focus on:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### CMS & Content Management
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -94,7 +99,7 @@ I transform complex challenges into elegant solutions with a focus on:
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,firebase,aws,docker,git,figma,tensorflow,pytorch,python,java&perline=9)
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,firebase,aws,docker,git,figma,tensorflow,pytorch,python,java,wordpress&perline=9)
 
 ### 🔍 Currently Exploring
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
