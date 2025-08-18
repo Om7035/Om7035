@@ -263,7 +263,6 @@ Mocking tool for API development and testing.
 ### ⚡ Fun Facts
 - 🧠 **Debugging in Dreams**: I once solved a bug in my sleep and woke up to implement the fix.
 - 🎮 **Game Dev Enthusiast**: I built a retro-style game in 48 hours during a hackathon and won the "Most Creative" award.
-- 🌍 **Globetrotter Coder**: I've coded in over 10 countries, drawing inspiration from different cultures and landscapes.
 - 🎧 **Music-Driven Development**: I curate coding playlists and believe the right soundtrack can 10x productivity.
 - 🚀 **Space Nerd**: I'm fascinated by space exploration and once built a satellite tracker as a side project.
 
