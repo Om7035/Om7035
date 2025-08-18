@@ -239,7 +239,7 @@ Mocking tool for API development and testing.
 - Web Accessibility (WCAG AAA standards)
 
 ### 📚 Latest Blog Articles
-- [(https://portfolio-chi-lake-28.vercel.app/blogs)](#)
+- [https://portfolio-chi-lake-28.vercel.app/blogs](#)
   
 
 </td>
