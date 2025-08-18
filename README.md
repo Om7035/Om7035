@@ -239,8 +239,9 @@ Mocking tool for API development and testing.
 - Web Accessibility (WCAG AAA standards)
 
 ### 📚 Latest Blog Articles
-- [https://portfolio-chi-lake-28.vercel.app/blogs](#)
-  
+- [Building AI-Enhanced User Experiences in 2025](https://portfolio-chi-lake-28.vercel.app/blogs)
+- [Performance Optimization: The Hidden UX Factor](https://portfolio-chi-lake-28.vercel.app/blogs)
+- [The Evolution of Frontend Architecture](https://portfolio-chi-lake-28.vercel.app/blogs)
 
 </td>
 <td width="50%" valign="top">
