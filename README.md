@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=om7035&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=om7035&theme=nord&column=7&no-frame=true&margin-w=15)
+
 
 </div>
 
