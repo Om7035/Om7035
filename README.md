@@ -8,8 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=om7035&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
 
-
-
 </div>
 
 ## 📚 Navigate My Universe
@@ -20,8 +18,7 @@
   <a href="#tech-ecosystem">⚙️ Tech Ecosystem</a> •
   <a href="#showcase-projects">🏆 Showcase Projects</a> •
   <a href="#contribution-galaxy">📊 Contribution Galaxy</a> •
-  <a href="#connect">🤝 Connect</a> •
-  <a href="#beyond-code">✨ Beyond Code</a>
+  <a href="#connect">🤝 Connect</a>
 </p>
 
 ---
@@ -237,45 +234,11 @@ Mocking tool for API development and testing.
 
 ---
 
-## ✨ Beyond Code | 🌈 The Human Element {#beyond-code}
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Current Learning Journey
-- Advanced 3D web interfaces with Three.js
-- Large Language Model fine-tuning techniques
-- Serverless architecture optimization
-- Web Accessibility (WCAG AAA standards)
-
-### 📚 Latest Blog Articles
-- [Building AI-Enhanced User Experiences in 2025](https://portfolio-chi-lake-28.vercel.app/blogs)
-- [Performance Optimization: The Hidden UX Factor](https://portfolio-chi-lake-28.vercel.app/blogs)
-- [The Evolution of Frontend Architecture](https://portfolio-chi-lake-28.vercel.app/blogs)
-
-</td>
-<td width="50%" valign="top">
-
-### 💭 Philosophy
-> "I believe technology should feel invisible while creating meaningful human connections. Every line of code should simplify complexity and empower users."
-
-### ⚡ Fun Facts
-- 🧠 **Debugging in Dreams**: I once solved a bug in my sleep and woke up to implement the fix.
-- 🎮 **Game Dev Enthusiast**: I built a retro-style game in 48 hours during a hackathon and won the "Most Creative" award.
-- 🎧 **Music-Driven Development**: I curate coding playlists and believe the right soundtrack can 10x productivity.
-- 🚀 **Space Nerd**: I'm fascinated by space exploration and once built a satellite tracker as a side project.
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
 
 ⭐ **Star some repositories if you find my work valuable!** ⭐
 
-![Currently Listening](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=1000&color=1DB954&center=true&vCenter=true&repeat=true&width=600&height=20&lines=🎧+Currently+listening+to+innovative+tech+podcasts+and+lofi+beats)
-
 </div>
+
