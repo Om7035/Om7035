@@ -200,19 +200,49 @@ Mocking tool for API development and testing.
 
 <div align="center">
 
+### 📈 GitHub Statistics
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=om7035&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=ff9c1c&fire=FFD700&currStreakNum=F8D866&sideNums=F8D866)
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&line_height=27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8)
+<br/>
+
+### 💻 Language Proficiency
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=donut-vertical&theme=radical&hide_border=true&border_radius=10&langs_count=10)
+
+<br/>
+
+### 📊 Detailed Metrics
+
+| Metric | Badge |
+|--------|-------|
+| **Total Repositories** | ![Repos](https://img.shields.io/badge/Repositories-25+-blue?style=flat-square) |
+| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/om7035?style=flat-square&label=Followers) |
+| **Total Contributions** | ![Contributions](https://img.shields.io/badge/Contributions-1000+-green?style=flat-square) |
+| **Open Source** | ![Open Source](https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=flat-square) |
+
+<br/>
 
 ### 🏆 GitHub Achievements
-- 🌟 **Active Developer**: Consistently contributing to open-source projects
-- 🔥 **Problem Solver**: Building innovative solutions across multiple domains
-- 🚀 **Tech Explorer**: Always experimenting with cutting-edge technologies
-- 💡 **Community Contributor**: Sharing knowledge through code and documentation
+
+| Achievement | Description |
+|-------------|-------------|
+| 🌟 **Active Developer** | Consistently contributing to open-source projects |
+| 🔥 **Problem Solver** | Building innovative solutions across multiple domains |
+| 🚀 **Tech Explorer** | Always experimenting with cutting-edge technologies |
+| 💡 **Community Contributor** | Sharing knowledge through code and documentation |
+| 📚 **Continuous Learner** | Mastering new frameworks and tools regularly |
+| 🎯 **Project Architect** | Designing scalable and maintainable solutions |
+
+<br/>
+
+### 📅 Activity Overview
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=om7035&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
