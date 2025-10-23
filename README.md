@@ -1,48 +1,114 @@
-# Hi, I'm Om Kawale 👋
-
-### Full-Stack Developer | AI Enthusiast | Building the Future
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-kawale)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-5340ff?style=flat-square&logo=google-chrome&logoColor=white)](https://om-kawale-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=om7035&color=0e75b6&style=flat-square)
-
----
-
-## About Me
-
-I'm a passionate full-stack developer specializing in building modern web applications with cutting-edge technologies. I focus on creating scalable, performant solutions that solve real-world problems.
-
-**What I Do:**
-- 🚀 Build responsive web applications with React, Next.js, and TypeScript
-- 🤖 Integrate AI/ML capabilities into web platforms
-- ⚡ Optimize performance and user experience
-- 🛠️ Design scalable backend systems with Node.js and cloud services
-
----
-
-## Tech Stack
+# 🌟 Welcome to Om Kawale's Digital Workshop
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=1000&lines=Welcome+to+Om+Kawale's+Digital+Workshop+🚀;Frontend+Architect+|+AI+Innovator+|+UX+Visionary;Crafting+Tomorrow's+Interfaces+Today;Where+Creativity+Meets+Technical+Excellence)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlignY=35&fontSize=25)
+
+![Profile Views](https://komarev.com/ghpvc/?username=om7035&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
+
+</div>
+
+## 📚 Navigate My Universe
+
+<p align="center">
+  <a href="#about-me">👨‍💻 About Me</a> •
+  <a href="#expertise">🧠 Expertise</a> •
+  <a href="#tech-ecosystem">⚙️ Tech Ecosystem</a> •
+  <a href="#showcase-projects">🏆 Showcase Projects</a> •
+  <a href="#contribution-galaxy">📊 Contribution Galaxy</a> •
+  <a href="#connect">🤝 Connect</a>
+</p>
+
+---
+
+## 👨‍💻 About Me {#about-me}
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+
+Greetings, digital explorer! I'm **Om Kawale** — where artistry meets algorithms.
+
+```javascript
+const Om = {
+  title: "Frontend Architect & AI Explorer",
+  mission: "Building digital experiences that inspire wonder",
+  focus: ["Intuitive UI/UX", "Performance Optimization", "AI Integration"],
+  philosophy: "Code isn't just functional; it's an art form that shapes human experience"
+};
+```
+
+I transform complex challenges into elegant solutions with a focus on:
+
+- 🎨 **Crafting pixel-perfect, responsive interfaces** that delight users
+- ⚡ **Engineering high-performance applications** with modern frameworks
+- 🧠 **Integrating AI capabilities** to create smarter user experiences
+- 🔄 **Embracing continuous evolution** by learning cutting-edge technologies
+
+---
+
+## 🧠 Expertise | 🌟 Skill Constellation {#expertise}
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Development Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### AI & Data Expertise
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### CMS & Content Management
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Ecosystem | 🔧 Tools of the Trade {#tech-ecosystem}
+
+<div align="center">
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,firebase,aws,docker,git,figma,tensorflow,pytorch,python,java,wordpress&perline=9)
+
+### 🔍 Currently Exploring
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 </div>
 
 ---
 
-## Showcase Projects
+## 🏆 Showcase Projects {#showcase-projects}
 
 <div align="center">
 
