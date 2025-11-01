@@ -13,12 +13,12 @@
 ## 📚 Navigate My Universe
 
 <p align="center">
-  <a href="#about-me">👨‍💻 About Me</a> •
-  <a href="#expertise">🧠 Expertise</a> •
-  <a href="#tech-ecosystem">⚙️ Tech Ecosystem</a> •
-  <a href="#showcase-projects">🏆 Showcase Projects</a> •
-  <a href="#contribution-galaxy">📊 Contribution Galaxy</a> •
-  <a href="#connect">🤝 Connect</a>
+  <a href="#about-me">👨‍💻 About Me</a> •
+  <a href="#expertise">🧠 Expertise</a> •
+  <a href="#tech-ecosystem">⚙️ Tech Ecosystem</a> •
+  <a href="#showcase-projects">🏆 Showcase Projects</a> •
+  <a href="#contribution-galaxy">📊 Contribution Galaxy</a> •
+  <a href="#connect">🤝 Connect</a>
 </p>
 
 ---
@@ -31,10 +31,10 @@ Greetings, digital explorer! I'm **Om Kawale** — where artistry meets algorith
 
 ```javascript
 const Om = {
-  title: "Frontend Architect & AI Explorer",
-  mission: "Building digital experiences that inspire wonder",
-  focus: ["Intuitive UI/UX", "Performance Optimization", "AI Integration"],
-  philosophy: "Code isn't just functional; it's an art form that shapes human experience"
+  title: "Frontend Architect & AI Explorer",
+  mission: "Building digital experiences that inspire wonder",
+  focus: ["Intuitive UI/UX", "Performance Optimization", "AI Integration"],
+  philosophy: "Code isn't just functional; it's an art form that shapes human experience"
 };
 ```
 
@@ -200,10 +200,10 @@ Mocking tool for API development and testing.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=om7035&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=ff9c1c&fire=FFD700&currStreakNum=F8D866&sideNums=F8D866)
+### GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=om7035&theme=tokyonight&border_radius=10)](https://github.com/om7035)
 
-<br/>
-
+### GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8)
@@ -223,9 +223,9 @@ Mocking tool for API development and testing.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-kawale)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your_handle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/om_kawale)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om.kawale@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/om7035)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://om-kawale-portfolio.vercel.app)
 
 ![Contact Me](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39D353&center=true&multiline=true&repeat=false&width=435&height=60&lines=Have+an+exciting+project%3F;Let's+collaborate!)
@@ -240,6 +240,6 @@ Mocking tool for API development and testing.
 
 ⭐ **Star some repositories if you find my work valuable!** ⭐
 
+**Made with ❤️ by Om Kawale**
+
 </div>
-
-
