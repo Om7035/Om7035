@@ -203,6 +203,12 @@ Mocking tool for API development and testing.
 ### GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=om7035&theme=tokyonight&border_radius=10)](https://github.com/om7035)
 
+#### Troubleshooting Streak Visibility:
+- Streak stats are updated every 24 hours, so new contributions may not appear immediately
+- Contributions are counted in UTC time, which may differ from your local time
+- If your streak appears incorrect, check your GitHub contribution graph for accuracy
+- Private contributions must be enabled in GitHub settings to appear in stats
+
 ### GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
 
@@ -213,6 +219,20 @@ Mocking tool for API development and testing.
 - 🔥 **Problem Solver**: Building innovative solutions across multiple domains
 - 🚀 **Tech Explorer**: Always experimenting with cutting-edge technologies
 - 💡 **Community Contributor**: Sharing knowledge through code and documentation
+
+### 🎉 Hacktoberfest Achievements
+[![Holopin Board](https://holopin.io/api/user/board?user=om7035)](https://holopin.io/@om7035)
+
+#### How to claim your Hacktoberfest badges:
+1. Visit [Hacktoberfest website](https://hacktoberfest.com) to verify your participation
+2. Create a [Holopin account](https://holopin.io) using the same email as your GitHub
+3. Claim your Hacktoberfest badges on Holopin
+4. Customize your badge board and it will automatically appear here
+
+#### Troubleshooting Hacktoberfest Badges:
+- If badges don't appear, ensure you've completed at least 1 PR for Hacktoberfest
+- Check that your Holopin account is linked to the same email as your GitHub
+- It may take up to 24 hours for badges to appear after completing PRs
 
 </div>
 
