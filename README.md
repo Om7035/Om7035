@@ -134,7 +134,7 @@ Financial management with analytics dashboard
 <table>
 <tr>
 <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Om7035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td align="center">
 
@@ -144,7 +144,7 @@ Financial management with analytics dashboard
 </tr>
 </table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om7035&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ### 🎉 Hacktoberfest 2025
 [![Holopin Badges](https://holopin.me/om7035)](https://holopin.io/@om7035)
