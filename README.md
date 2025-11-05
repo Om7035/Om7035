@@ -1,114 +1,77 @@
-# 🌟 Welcome to Om Kawale's Digital Workshop
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=1000&lines=Welcome+to+Om+Kawale's+Digital+Workshop+🚀;Frontend+Architect+|+AI+Innovator+|+UX+Visionary;Crafting+Tomorrow's+Interfaces+Today;Where+Creativity+Meets+Technical+Excellence)
+# Hi there, I'm Om Kawale 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn&fontAlignY=35&fontSize=25)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Digital+Experiences)
 
-![Profile Views](https://komarev.com/ghpvc/?username=om7035&label=PROFILE+VISITS&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=om7035&label=Profile+Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/om7035?label=Followers&style=flat&color=0e75b6)
+![GitHub User's stars](https://img.shields.io/github/stars/om7035?label=Stars&style=flat&color=0e75b6)
 
 </div>
 
-## 📚 Navigate My Universe
+## 🚀 About Me
 
-<p align="center">
-  <a href="#about-me">👨‍💻 About Me</a> •
-  <a href="#expertise">🧠 Expertise</a> •
-  <a href="#tech-ecosystem">⚙️ Tech Ecosystem</a> •
-  <a href="#showcase-projects">🏆 Showcase Projects</a> •
-  <a href="#contribution-galaxy">📊 Contribution Galaxy</a> •
-  <a href="#connect">🤝 Connect</a>
-</p>
+<table>
+<tr>
+<td width="60%">
 
----
+### Frontend Developer & AI Enthusiast
 
-## 👨‍💻 About Me {#about-me}
+I'm passionate about creating **beautiful, functional web experiences** and exploring the intersection of **AI and web development**. Currently focused on building modern applications with React, Next.js, and integrating AI capabilities.
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+**What I do:**
+- 🎨 Build responsive, user-friendly interfaces
+- ⚡ Optimize performance and user experience  
+- 🧠 Integrate AI/ML features into web apps
+- 🌱 Contribute to open-source projects
 
-Greetings, digital explorer! I'm **Om Kawale** — where artistry meets algorithms.
+</td>
+<td width="40%">
 
 ```javascript
-const Om = {
-  title: "Frontend Architect & AI Explorer",
-  mission: "Building digital experiences that inspire wonder",
-  focus: ["Intuitive UI/UX", "Performance Optimization", "AI Integration"],
-  philosophy: "Code isn't just functional; it's an art form that shapes human experience"
+const om = {
+  location: "India 🇮🇳",
+  role: "Frontend Developer",
+  interests: ["AI/ML", "Web Dev", "Open Source"],
+  currentlyLearning: ["Three.js", "WebAssembly"],
+  funFact: "I love turning ideas into code!"
 };
 ```
 
-I transform complex challenges into elegant solutions with a focus on:
-
-- 🎨 **Crafting pixel-perfect, responsive interfaces** that delight users
-- ⚡ **Engineering high-performance applications** with modern frameworks
-- 🧠 **Integrating AI capabilities** to create smarter user experiences
-- 🔄 **Embracing continuous evolution** by learning cutting-edge technologies
-
----
-
-## 🧠 Expertise | 🌟 Skill Constellation {#expertise}
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Development Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### AI & Data Expertise
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### CMS & Content Management
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
-
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚙️ Tech Ecosystem | 🔧 Tools of the Trade {#tech-ecosystem}
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,mongodb,firebase,aws,docker,git,figma,tensorflow,pytorch,python,java,wordpress&perline=9)
+![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,python,mongodb,firebase,git,docker,figma,aws&perline=6)
 
-### 🔍 Currently Exploring
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Showcase Projects {#showcase-projects}
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -116,77 +79,36 @@ I transform complex challenges into elegant solutions with a focus on:
 <tr>
 <td width="50%">
 
-### 🌐 [Portfolio](https://github.com/Om7035/Portfolio)
+**🌐 [Portfolio Website](https://github.com/Om7035/Portfolio)**
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/Om7035/Portfolio)
 
-Personal portfolio showcasing my journey and expertise in web development.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+Modern portfolio built with Next.js and TypeScript
 
 </td>
 <td width="50%">
 
-### 💼 [Export Management Platform](https://github.com/Om7035/export-management-platform)
-[![Export Management Platform](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=export-management-platform&theme=tokyonight&hide_border=true)](https://github.com/Om7035/export-management-platform)
-
-Enterprise-grade platform for streamlined export operations.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎬 [Netflix Clone](https://github.com/Om7035/netflix-clone)
+**🎬 [Netflix Clone](https://github.com/Om7035/netflix-clone)**
 [![Netflix Clone](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=netflix-clone&theme=tokyonight&hide_border=true)](https://github.com/Om7035/netflix-clone)
 
-Full-featured streaming platform clone with modern architecture.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-<td width="50%">
-
-### 🌿 [Green-Sense](https://github.com/Om7035/Green-Sense)
-[![Green-Sense](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=Green-Sense&theme=tokyonight&hide_border=true)](https://github.com/Om7035/Green-Sense)
-
-Eco-friendly IoT platform for environmental monitoring.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Full-stack streaming platform with React & Firebase
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📦 [FinRack](https://github.com/Om7035/FinRack)
-[![FinRack](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=FinRack&theme=tokyonight&hide_border=true)](https://github.com/Om7035/FinRack)
+**💼 [Export Management Platform](https://github.com/Om7035/export-management-platform)**
+[![Export Management](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=export-management-platform&theme=tokyonight&hide_border=true)](https://github.com/Om7035/export-management-platform)
 
-Financial management platform with advanced analytics and intuitive dashboard interface.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+Enterprise solution for export operations
 
 </td>
 <td width="50%">
 
-### 🔍 [MockNew](https://github.com/Om7035/MockNew)
-[![MockNew](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=MockNew&theme=tokyonight&hide_border=true)](https://github.com/Om7035/MockNew)
+**📊 [FinRack](https://github.com/Om7035/FinRack)**
+[![FinRack](https://github-readme-stats.vercel.app/api/pin/?username=om7035&repo=FinRack&theme=tokyonight&hide_border=true)](https://github.com/Om7035/FinRack)
 
-Mocking tool for API development and testing.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+Financial management with analytics dashboard
 
 </td>
 </tr>
@@ -196,65 +118,43 @@ Mocking tool for API development and testing.
 
 ---
 
-## 📊 Contribution Galaxy | 🌌 Code Cosmos {#contribution-galaxy}
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🔥 GitHub Streak & Analytics
 <table>
 <tr>
 <td align="center">
-<img src="https://streak-stats.demolab.com?user=om7035&theme=tokyonight&border_radius=10&hide_border=true&card_width=400" alt="GitHub Streak Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=om7035&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </td>
 </tr>
 </table>
 
-### 📈 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-### 🎉 Hacktoberfest 2024 Achievement
-<img src="https://holopin.io/api/user/board?user=om7035" alt="Holopin Hacktoberfest Badges" />
-
-> **Badge ID:** `cmhmi7vcw000bl2042o0msabz` | **Earned:** November 5, 2024
-
-**Badges not showing?** 
-1. Visit [holopin.io/account](https://holopin.io/account) and link your GitHub account
-2. Sign up with GitHub if you don't have a Holopin account
-3. Your badges will appear automatically once accounts are linked
-
-### 🏆 Achievements Summary
-🌟 **452+ Total Contributions** • 🔥 **Active Streak Maintainer** • 🎯 **Hacktoberfest Participant** • 💻 **Open Source Contributor**
+### 🎉 Hacktoberfest 2024
+[![Holopin Badges](https://holopin.me/om7035)](https://holopin.io/@om7035)
 
 </div>
 
 ---
 
-## 🤝 Connect | 🌐 Digital Handshake {#connect}
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-kawale)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/om_kawale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://om-kawale-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om.kawale@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/om7035)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://om-kawale-portfolio.vercel.app)
-
-![Contact Me](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39D353&center=true&multiline=true&repeat=false&width=435&height=60&lines=Have+an+exciting+project%3F;Let's+collaborate!)
-
-</div>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/om_kawale)
 
 ---
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
-
-⭐ **Star some repositories if you find my work valuable!** ⭐
-
-**Made with ❤️ by Om Kawale**
+💡 **Open to collaborations and interesting projects!**  
+⭐ **Feel free to star repositories you find useful**
 
 </div>
 
