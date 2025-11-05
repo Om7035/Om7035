@@ -138,7 +138,7 @@ Financial management with analytics dashboard
 </td>
 <td align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Om7035&theme=tokyonight&hide_border=true&card_width=450)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Om7035&theme=tokyonight&hide_border=true&card_width=450)](https://git.io/streak-stats)
 
 </td>
 </tr>
