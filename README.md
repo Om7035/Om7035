@@ -200,39 +200,33 @@ Mocking tool for API development and testing.
 
 <div align="center">
 
-### GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=om7035&theme=tokyonight&border_radius=10)](https://github.com/om7035)
+### 🔥 GitHub Streak & Analytics
+<table>
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=om7035&theme=tokyonight&border_radius=10&hide_border=true&card_width=400" alt="GitHub Streak Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+</td>
+</tr>
+</table>
 
-#### Troubleshooting Streak Visibility:
-- Streak stats are updated every 24 hours, so new contributions may not appear immediately
-- Contributions are counted in UTC time, which may differ from your local time
-- If your streak appears incorrect, check your GitHub contribution graph for accuracy
-- Private contributions must be enabled in GitHub settings to appear in stats
+### 📈 Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
 
-### GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
+### 🎉 Hacktoberfest 2024 Achievement
+<img src="https://holopin.io/api/user/board?user=om7035" alt="Holopin Hacktoberfest Badges" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om7035&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8)
+> **Badge ID:** `cmhmi7vcw000bl2042o0msabz` | **Earned:** November 5, 2024
 
-### 🏆 GitHub Achievements
-- 🌟 **Active Developer**: Consistently contributing to open-source projects
-- 🔥 **Problem Solver**: Building innovative solutions across multiple domains
-- 🚀 **Tech Explorer**: Always experimenting with cutting-edge technologies
-- 💡 **Community Contributor**: Sharing knowledge through code and documentation
+**Badges not showing?** 
+1. Visit [holopin.io/account](https://holopin.io/account) and link your GitHub account
+2. Sign up with GitHub if you don't have a Holopin account
+3. Your badges will appear automatically once accounts are linked
 
-### 🎉 Hacktoberfest Achievements
-[![Holopin Board](https://holopin.io/api/user/board?user=om7035)](https://holopin.io/@om7035)
-
-#### How to claim your Hacktoberfest badges:
-1. Visit [Hacktoberfest website](https://hacktoberfest.com) to verify your participation
-2. Create a [Holopin account](https://holopin.io) using the same email as your GitHub
-3. Claim your Hacktoberfest badges on Holopin
-4. Customize your badge board and it will automatically appear here
-
-#### Troubleshooting Hacktoberfest Badges:
-- If badges don't appear, ensure you've completed at least 1 PR for Hacktoberfest
-- Check that your Holopin account is linked to the same email as your GitHub
-- It may take up to 24 hours for badges to appear after completing PRs
+### 🏆 Achievements Summary
+🌟 **452+ Total Contributions** • 🔥 **Active Streak Maintainer** • 🎯 **Hacktoberfest Participant** • 💻 **Open Source Contributor**
 
 </div>
 
