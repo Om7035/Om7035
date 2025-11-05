@@ -137,7 +137,9 @@ Financial management with analytics dashboard
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=om7035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td align="center">
-<img height="180em" src="https://streak-stats.demolab.com/?user=om7035&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=om7035&theme=tokyonight&hide_border=true&card_width=450)
+
 </td>
 </tr>
 </table>
