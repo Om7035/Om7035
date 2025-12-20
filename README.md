@@ -40,8 +40,7 @@ I am a Final Year IT Engineering student in Pune, specialized in the intersectio
 #### 📊 [FinRack](https://github.com/Om7035/FinRack)
 A full-stack financial management platform with a focus on data visualization and predictive analytics. 
 
-#### 🤏 [Gesture-Driven 3D Systems](https://github.com/Om7035/threejs-mediapipe)
-An interactive 3D particle system controlled via hand-tracking. Integrating MediaPipe with Three.js to explore natural user interfaces (NUI).
+
 
 ---
 
