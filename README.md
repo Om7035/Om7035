@@ -14,7 +14,7 @@
 ### 🧠 Focus & Philosophy
 I am a Final Year IT Engineering student in Pune, specialized in the intersection of **Retrieval-Augmented Generation (RAG)** and **Knowledge Graphs**. My work focuses on solving the "Data Freshness" problem—ensuring LLMs don't just have access to data, but access to *accurate, evolving truth.*
 
-- 🛠️ Currently architecting **[Sentinel](https://github.com/Om7035/Sentinel)**: An open-source, self-healing knowledge graph system.
+- 🛠️ Currently architecting **[Sentinel](https://github.com/Om7035/Sentinel-The-Self-Healing-Knowledge-Graph)**: An open-source, self-healing knowledge graph system.
 - 🎨 Experimenting with **3D Graphics & Computer Vision** (Three.js + MediaPipe).
 - 🤝 Open-source contributor to **Grafana** and **Frappe** ecosystems.
 
