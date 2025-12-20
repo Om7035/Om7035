@@ -33,7 +33,7 @@ I am a Final Year IT Engineering student in Pune, specialized in the intersectio
 
 ### 🚀 Key Projects
 
-#### 🛡️ [Sentinel](https://github.com/Om7035/Sentinel)
+#### 🛡️ [Sentinel](https://github.com/Om7035/Sentinel-The-Self-Healing-Knowledge-Graph)
 **Problem:** RAG systems suffer from stale data. 
 **Solution:** A self-healing knowledge graph that monitors data sources and updates graph nodes in real-time. Built to ensure high-fidelity retrieval for enterprise LLM agents.
 
