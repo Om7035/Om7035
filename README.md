@@ -1,41 +1,47 @@
-# Architecting Intelligent Systems & High-Performance Backends.
+# Architecting Intelligent Systems & High-Fidelity Data Pipelines.
 
-Software Engineer specializing in complex backend architecture, artificial intelligence, and mobile development. Focused on reducing system friction and building highly optimized, self-governing frameworks. 
+Final-year IT Engineering student in Pune, specializing in the intersection of Retrieval-Augmented Generation (RAG) and Knowledge Graphs. 
 
-Currently a final-year Information Technology Engineering student (Class of July 2026), translating theoretical computer science into production-ready infrastructure.
+My engineering focus is solving the "Data Freshness" problem—ensuring Large Language Models retrieve from accurate, self-evolving truths rather than static databases. I build tools that eliminate engineering bottlenecks and avoid "tutorial clone" tech debt.
 
 ---
 
 ### Core Engineering Stack
 
-*   **Intelligence & Architecture:** Python, Large Language Models (LLMs), GraphRAG, Agentic Workflows
-*   **Backend Systems:** Java, Spring Boot, FastAPI, SQL
-*   **Mobile & UI:** React Native, Expo
+*   **AI Infrastructure:** LangChain, LlamaIndex, PyTorch, Neo4j (Knowledge Graphs)
+*   **Backend & Cloud:** Node.js, FastAPI, PostgreSQL, MongoDB, Redis, Docker, AWS
+*   **Frontend & Experiential:** React, Next.js, TypeScript, Three.js, MediaPipe (3D & CV)
 
 ---
 
-### Featured Architecture 
+### Key Architecture & Projects 
 
-**[Sentinel](link-to-repo)**
-> **Self-healing knowledge graph framework (Python Package).** 
-> Orchestrates multi-agent workflows and leverages GraphRAG to maintain self-correcting data structures. Engineered to ensure high-fidelity retrieval and resilience in complex AI pipelines.
+**[Sentinel](#)**
+> **Self-healing knowledge graph system.** 
+> Engineered to monitor data sources and update graph nodes in real-time. Solves the core RAG problem of stale data, ensuring high-fidelity retrieval for enterprise LLM agents.
 
-**[KODA (Knowledge-Oriented Data Abstraction)](link-to-repo)**
-> **Schema-first data serialization format.** 
-> Built specifically to drastically reduce token usage and optimize computational cost in LLM processing pipelines, prioritizing structural efficiency over standard JSON overhead.
-
-**[NovaRN](link-to-repo)**
-> **Premium mobile architecture.** 
-> Developed utilizing React Native and Expo to deliver a highly modular, fluid user experience with seamless, low-latency backend integration.
+**[FinRack](#)**
+> **Full-stack financial management platform.** 
+> Built with a strict focus on robust data visualization, clean backend architecture, and predictive financial analytics.
 
 ---
 
 ### Open Source & Community
 
-Dedicated to building tools that eliminate engineering bottlenecks and actively participating in the global open-source ecosystem.
+Actively contributing to complex, production-scale ecosystems, focusing on feature implementation, bug resolution, and core infrastructure improvements.
 
-*   **GitHub Milestones:** Galaxy Brain, Pull Shark
-*   **Active Contributions:** Hacktoberfest 2025 
+*   **Frappe (HRMS):** Implemented core reporting features (e.g., Return Amount columns in Employee Advance Summaries).
+*   **Joplin:** Resolved international keyboard layout handling and improved terminal application documentation.
+*   **Other Ecosystems:** Active engagement in issues across Hugging Face Transformers and Twenty CRM.
+
+---
+
+### Random Access Memory
+
+*   **Current Learning:** Advanced Graph Neural Networks (GNNs).
+*   **Offline:** Stealth games (Hitman 3), T20 Cricket analysis, and Fitness.
+
+> *"The best way to predict the future is to build it—then debug it."*
 
 ---
 
