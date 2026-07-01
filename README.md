@@ -16,7 +16,7 @@ My engineering focus is solving complex data propagation problems—ensuring tha
 
 ### Featured Architecture 
 
-**[Sentinel]([https://github.com/Om7035/Sentinel](https://github.com/Om7035/Sentinel-The-Self-Healing-Knowledge-Graph))**
+**[Sentinel](https://github.com/Om7035/Sentinel-The-Self-Healing-Knowledge-Graph)**
 > **Self-healing knowledge graph framework.** 
 > Engineered to monitor data sources and update graph nodes in real-time. Solves the core RAG bottleneck of stale data, ensuring high-fidelity, dynamically evolving retrieval for enterprise LLM agents.
 
